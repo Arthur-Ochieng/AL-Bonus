@@ -1,0 +1,28 @@
+{
+  "id": "9038cbcd-bdf6-4a81-9414-b887083003f1",
+  "name": "demo78",
+  "publisher": "Arthur Ochieng",
+  "version": "1.0.0.0",
+  "brief": "This is one of my first extensions",
+  "description": "Used it to learn more about BC",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
